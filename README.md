@@ -11,5 +11,13 @@ The three things are to be done:
 # Data Source:
 The data is provided by Accenture Virtual Intership.
 # Key Insights:
+## 1. Data Analysis, Data Modeling and Cleaning:
+- The three datasets, Content, Reactions and Reaction Type are explored and understand which fields are required for analysis and which fields need to drop.
+- After exploring the datasets, handled the missing data, cleaned the data and transformed the dataset.
+- For Data Modeling, we have have merged the datasets with the help of common column using VLOOKUP function. After merging the fields, the final dataset has been reviewed for blanks and data type consistency.
+- Imported the Dataset into Power BI.
+- To identify key variables and ensure accurate analysis, the exploratory analysis of dataset structure and data types has been done using the Power Query editor in Power BI.
+## 2. Reaction Type by Top 10 Category:
+
 # Conclusion:
 
