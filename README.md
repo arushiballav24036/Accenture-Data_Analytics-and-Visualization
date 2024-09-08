@@ -18,6 +18,8 @@ The data is provided by Accenture Virtual Intership.
 - Imported the Dataset into Power BI.
 - To identify key variables and ensure accurate analysis, the exploratory analysis of dataset structure and data types has been done using the Power Query editor in Power BI.
 ## 2. Reaction Type by Top 10 Category:
+- The dominant categories that received the highest number of reactions suggest that these topics strongly resonate with the audience, like categories such as animals has 1897 followed by science 1717 and so on consistently attract a significant number of reactions, indicating their widespread appeal and engagement potential.
+## 3. Score by Top 5 Category:
 
 # Conclusion:
 
