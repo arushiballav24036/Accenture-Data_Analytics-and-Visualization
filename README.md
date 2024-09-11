@@ -32,6 +32,8 @@ The data is provided by Accenture Virtual Intership.
 ## 6. Score by Content Type:
 - Analyzing the scores by content type reveals significant differences in how various content formats perform, offering valuable insights into audience preferences and content effectiveness.
 - Content Types such as photo and video stand out with the highest scores. This indicates that these formats are particularly effective in engaging the audience and meeting business objectives.
+### Here is the snapshot of the dashboard:
+![Screenshot 2024-09-07 132548](https://github.com/user-attachments/assets/9dd8b321-94f5-4854-a12c-5444aef20e2f)
 
 # Conclusion:
 
